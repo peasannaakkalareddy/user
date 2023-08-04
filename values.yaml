@@ -1,3 +1,7 @@
 appName: user
 appPort: 8080
 params: "prod.user.documentdb prod.user.redis_host prod.user.mongo_url"
+
+schema:
+  enabled: true
+  type: mo  ngo
